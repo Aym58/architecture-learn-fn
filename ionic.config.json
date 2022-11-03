@@ -1,0 +1,7 @@
+{
+  "name": "crud-test-fn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
